@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual Environment
+venv/
+
+# Environment Variables
+.env
+
+# SQLite
+cache.db
+
+# Audio
+*.mp3
+
+# FAISS
+vector_store/
+
+# Uploaded Files
+data/uploaded_files/
+
+# VS Code
+.vscode/
+
+# OS Files
+.DS_Store
+Thumbs.db
