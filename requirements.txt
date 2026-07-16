@@ -7,6 +7,9 @@ langchain-huggingface
 faiss-cpu
 
 sentence-transformers
+torch
+torchvision
+
 
 PyMuPDF
 python-docx
